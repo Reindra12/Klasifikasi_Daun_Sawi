@@ -1,0 +1,10 @@
+numpy==1.25.0
+opencv-python==4.7.0.72
+matplotlib==3.7.1
+pandas==2.0.2
+imutils==0.5.4
+tqdm==4.65.0
+# os-sys==2.1.4
+scikit-learn==1.2.2
+imageio==2.31.1
+seaborn==0.12.2
